@@ -23,7 +23,7 @@ Natural language processing is the research field in which we develop, test and 
 
 [Assignment 3](Assignments\Assignment3\ex3.py) | [Notebook](Assignments\Assignment3\NLP_ass3.ipynb) | [Report](Assignments\Assignment3\report.pdf)- Authorship Attribution - LSTM networks - Using various algorithms for text classification, performing an **authorship attribution task on Donald Trump’s tweets.** A comprehensive report, the accompanying code and classification output obtained on a test set is included in the repository. 
 
-[Assignment 4](Assignments\Assignment4\tagger.py) | [Notebook](Assignments\Assignment3\NLP_ass4.ipynb) - Part of Speech Tagging - Implement a Hidden Markov Model and a BiLSTM model for Part of Speech tagging. Using discriminative models for POS tagging (MEMM and bi-LSTM). 
+[Assignment 4](Assignments\Assignment4\tagger.py) | [Notebook](Assignments\Assignment4\NLP_ass4.ipynb) - Part of Speech Tagging - Implement a Hidden Markov Model and a BiLSTM model for Part of Speech tagging. Using discriminative models for POS tagging (MEMM and bi-LSTM). 
 
 
 <p align="center">
