@@ -26,6 +26,7 @@ Natural language processing is the research field in which we develop, test and 
 [Assignment 4](Assignments/Assignment4/tagger.py) | [Notebook](Assignments/Assignment4/NLP_ass4.ipynb) - Part of Speech Tagging - Implement a Hidden Markov Model and a BiLSTM model for Part of Speech tagging. Using discriminative models for POS tagging (MEMM and bi-LSTM). 
 
 
+
 <p align="center">
 <img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
 </p>
